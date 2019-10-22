@@ -1,0 +1,10 @@
+27294-8 Direct root Logins Not Allowed
+26989-4 Ensure gpgcheck Enabled In Main Yum Configuration
+80148-0 Add nosuid Option to Removable Media Partitions
+80146-4 Add nodev Option to Removable Media Partitions
+80147-2 Add noexec Option to Removable Media Partitions
+80447-6 Configure the Firewalld Ports
+80361-9 Enable SSH Server firewalld Firewall exception
+26952-2 Configure Periodic Execution of AIDE
+27220-3 Build and Test AIDE Database
+27343-3 Ensure Logs Sent To Remote Host
